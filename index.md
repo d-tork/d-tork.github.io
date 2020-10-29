@@ -2,4 +2,4 @@
 
 This is the index.
 
-Link to the [README](README.md)
+Link to a [sample page](sample_page.md)
