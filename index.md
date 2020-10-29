@@ -1,5 +1,12 @@
 # d-tork Homepage
 
-This is the index.
+## Presence
 
-Link to a [sample page](sample_page.md)
+* [Github](https://github.com/d-tork)
+* [Gitlab](https://gitlab.com/dtork)
+
+## Badges
+
+[!Databricks UDA Essentials](img/databricks-uda_essentials.png)
+[!Databricks UDA Essentials](img/databricks-delta_lake_essentials.png)
+
