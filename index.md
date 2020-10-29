@@ -7,6 +7,6 @@
 
 ## Badges
 
-[!Databricks UDA Essentials](img/databricks-uda_essentials.png)
-[!Databricks UDA Essentials](img/databricks-delta_lake_essentials.png)
+![Databricks UDA Essentials](img/databricks-uda_essentials.png)
+![Databricks UDA Essentials](img/databricks-delta_lake_essentials.png)
 
