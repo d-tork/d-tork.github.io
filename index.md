@@ -5,6 +5,8 @@ and version-control it with [git](https://git-scm.com/) and I don't need to worr
 it myself. Because I can't, because my plan did not [survive contact with the enemy](https://idioms.thefreedictionary.com/no+plan+survives+contact+with+the+enemy). 
 
 ![I had it all figured out](img/the_plan.png)
+<p style="text-align: center;">The plan.</p>
 
-<p style="text-align: center;">_The plan._</p>
 
+![I had it all figured out](img/the_enemy.png)
+<p style="text-align: center;">The enemy.</p>
