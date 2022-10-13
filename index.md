@@ -5,7 +5,9 @@ and version-control it with [git](https://git-scm.com/) and I don't need to worr
 it myself. Because I can't, because my plan did not [survive contact with the enemy](https://idioms.thefreedictionary.com/no+plan+survives+contact+with+the+enemy). 
 
 <div style="text-align: center;">
+
 ![I had it all figured out](img/the_plan.png)
+
 </div>
 
 <p style="text-align: center;">Centered text</p>
