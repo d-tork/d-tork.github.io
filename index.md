@@ -7,7 +7,7 @@ it myself. Because I can't, because my plan did not [survive contact with the en
 ![I had it all figured out](img/the_plan.png)
 <p style="text-align: center;"><i>The plan.</i></p>
 
-![...until first contact](img/the_enemy.png)
+![...until first contact](img/the_enemy.JPG)
 <p style="text-align: center;"><i>The enemy.</i></p>
 
 That isn't even where I'm sleeping right now, that was Texas. Now is even more austere, but don't
@@ -15,7 +15,7 @@ worry it's not a mud hut. I just had to revise the plan (still theoretical, beca
 unpacked my little server and disk drives in the transient housing I'm in). 
 
 ![The revised plan](img/revised_plan.png)
-<p style="text-align: center;"><i>On the bright side, this significantly reduced the weight of my bag which was close to the limit.</i></p>
+<p style="text-align: center;"><i>On the bright side, this significantly reduced the weight of my bags which were close to the limit.</i></p>
 
 ## Are you confused? 
 Since March 2020 I have been running some form of a full-time server at home where I could dabble
@@ -37,4 +37,4 @@ came here to replace. We are too recent to have made the homepage yet.
 * [Africa Command (AFRICOM) Mission](https://www.africom.mil/about-the-command/our-team/combined-joint-task-force---horn-of-africa) - with links to social media pages
 
 I wish I could say something about the photos on those pages, but my internet is so slow I can't
-get them to load. I'm sure everyone here is on their bunk watching Netflix all at the same time. 
+get them to load. I'm sure everyone here is on their bunk watching Netflix. 
