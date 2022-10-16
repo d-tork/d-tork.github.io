@@ -1,4 +1,13 @@
-# 13 Oct 2022
+# A Nine-Month Paid Vacation
+
+## 16 Oct 2022 - Re-reading "The Mundanity of Excellence"
+From ["The Mundanity of Excellence: An Ethnographic Report on Stratification and Olympic Swimmers"](https://academics.hamilton.edu/documents/themundanityofexcellence.pdf)
+
+> _Excellence is mundane_. Superlative performance is really a confluence of dozens of small 
+> skills or activities, each one learned or stumbled upon, which have been carefully drilled into 
+> habit and then are fitted together in a synthesized whole. 
+
+## 13 Oct 2022 - The challenge of getting something on the web for you
 Re-connected my \[old\] Github pages to bring to you this blog. It's not a proper blog, but it 
 makes me happy because I can write in [markdown](https://www.markdownguide.org/getting-started/)
 and version-control it with [git](https://git-scm.com/) and I don't need to worry about hosting
@@ -17,7 +26,7 @@ unpacked my little server and disk drives in the transient housing I'm in).
 ![The revised plan](img/revised_plan.png)
 <p style="text-align: center;"><i>On the bright side, this significantly reduced the weight of my bags which were close to the limit.</i></p>
 
-## Are you confused? 
+### Are you confused? 
 Since March 2020 I have been running some form of a full-time server at home where I could dabble
 in computer-type projects: server administration, programming, automation, web hosting, network
 defense, data analysis. Knowing I would leave for nine months I prepared to take the show on the 
@@ -27,7 +36,7 @@ screen, keyboard, and disk array in my airline luggage and set it up in Africa t
 hobbies in my free time. I should have taken photos when I had it all plugged in at home during 
 rehearsals, I'm sorry. I forgot. 
 
-## What about Africa? 
+### What about Africa? 
 You are probably here because you want to hear about Africa and not about computers. I need a few
 more days to get a handle on some work stuff before I can spill the beans. In the meantime, can
 I interest you in some safe-for-public-consumption messaging from our Public Affairs Office? Anywhere
