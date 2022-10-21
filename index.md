@@ -1,5 +1,24 @@
 # A Nine-Month Paid Vacation
 
+## 21 Oct 2022 - Living Quarters
+![Transient CLU](img/transient_clu.JPG)
+<p style="text-align: center;"><i>Exactly as small as you think it is.</i></p>
+
+This is where I live for now, in one half of a shipping container which is further divided into
+three alcoves, one bed each. It's what they call transient housing while I move up the waitlist
+for permanent housing, which is a whole half of a container to myself! The containers themselves
+are CLUs—containerized living units—pronounced "clues". 
+
+We have sleeping CLUs, bathroom CLUs, laundry CLUs, office CLUs, recreation CLUs. Just about the
+only thing not done in a CLU is working out. 
+
+![A custom weight bench](img/weight_bench.JPG)
+<p style="text-align: center;"><i>Necessity is the mother of invention.</i></p>
+
+I'm kidding, we have nice gyms. And thrice a day I dine at an all-you-can-eat buffet. And I walk
+to work. Life is truly wonderful. 
+
+
 ## 16 Oct 2022 - Re-reading "The Mundanity of Excellence"
 From ["The Mundanity of Excellence: An Ethnographic Report on Stratification and Olympic Swimmers"](https://academics.hamilton.edu/documents/themundanityofexcellence.pdf)
 
