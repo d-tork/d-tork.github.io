@@ -16,8 +16,8 @@ instead of sitting atop my bed hunched uncomfortably over a laptop.
 ![Desk and sink](img/permanent_clu2.JPG)
 <p style="text-align: center;"><i>A place to work, a place for "ablutions"</i></p>
 
-I had by dying to have a better space to set up my server than the narrow shelf above my bed, and
-I got exactly that in this new container. At home, I named my server the `CR4DL` as an homage to 
+I had been dying to have a better space to set up my server than the narrow shelf above my bed, and
+I got exactly that in this new container. At home, I named my server `CR4DL` as an homage to 
 [_Westworld_](https://westworld.fandom.com/wiki/Cradle#CR4-DL); this miniaturized version I call
 the `CR1B`. 
 
@@ -37,8 +37,8 @@ space-hogging brick of an adapter.
 The beauty of all of this is that internet speeds are terrible here, and streaming services sort
 of expect their American audiences to have what is, today, considered a reasonable connection speed
 in order to watch content uninterrupted. For example, at home I pay for something like 310 Mbps. 
-With 4G LTE on my phone in the States I get about 151 Mbps. Here it's between 1 and 3. Some nights, 
-it's actually more accurate to measure it in kilobits per second (Kbps) rather than megabits. 
+With 4G LTE on my phone in the States I get about 150 Mbps. Here, it's between 1 and 3. Some nights, 
+it's actually more accurate to measure in kilobits per second (Kbps) instead of megabits. 
 
 As a paying customer of these services, I'm afforded the ability to download shows and movies for
 offline viewing. But what would ordinarily take me 18 seconds to download now takes at least an hour 
@@ -47,7 +47,7 @@ do that all day.
 
 I'll spare the details but my dutiful Lenovo ThinkCentre there on the desk _is_
 willing and capable to chug along all day and all night fetching these things on a slow-drip 
-internet connection so that when the weekend comes around I can watch an episode or a movie all
+internet connection, so that when the weekend comes around I can watch an episode or a movie all
 the way through. And my historic library of purchased blu-rays and _The Office_ DVD box set came
 with me on the hard drives, also immediately available for streaming—not from the world wide web, 
 but from my desk setup here, offering a low-latency solution to what (I imagine) is a frustrating
