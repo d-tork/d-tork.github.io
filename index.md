@@ -1,5 +1,63 @@
 # A Nine-Month Paid Vacation
 
+## 19 Nov 2022 - Living Quarters 2.0
+Finally made it to the top of the list to receive my permanent housing for the rest of the 
+deployment. Behold: 
+
+![Permanent CLU](img/permanent_clu1.JPG)
+<p style="text-align: center;"><i>All to myself!</i></p>
+
+This is all a servicemember on deployment could want or dream for: the ability to control the 
+thermostat and what time the lights go on or off; a space to walk and stand wider than 18"; not
+having to get dressed and go outside to the shower/toilet/sink; enough storage space to not have
+to squirrel away my clothes and posessions inside a duffel bag; a proper desk and chair to sit at
+instead of sitting atop my bed hunched uncomfortably over a laptop. 
+
+![Desk and sink](img/permanent_clu2.JPG)
+<p style="text-align: center;"><i>A place to work, a place for "ablutions"</i></p>
+
+I had by dying to have a better space to set up my server than the narrow shelf above my bed, and
+I got exactly that in this new container. At home, I named my server the `CR4DL` as an homage to 
+[_Westworld_](https://westworld.fandom.com/wiki/Cradle#CR4-DL); this miniaturized version I call
+the `CR1B`. 
+
+![Desk and sink](img/server_setup.JPG)
+<p style="text-align: center;"><i>Welcome to my <code>CR1B</code></i></p>
+
+From left-to-right that's a two-disk, hot-swappable hard drive caddy filled with a pair of 4TB 
+drives formatted as ZFS to act as a single disk for media (all three components off ebay, $113). A
+Lenovo ThinkCentre M710q Tiny as the brains, a powerful yet silent piece of hardware (Amazon, $189).
+A Sunfounder 7" touchscreen meant for a RaspberryPi (Amazon, $61). It is currently displaying
+output from [`btop`](https://github.com/aristocratos/btop) for absolutely no reason at all other 
+than the coolness effect (it's generally turned off unless I'm doing maintenance). Mini wired 
+keyboard (Amazon, $13). Finally one of these [amazing surge protectors](https://www.amazon.com/gp/product/B09QPF6R4W/)
+I found which are engineered so that none of your plugs will ever be covered up by a selfish, 
+space-hogging brick of an adapter. 
+
+The beauty of all of this is that internet speeds are terrible here, and streaming services sort
+of expect their American audiences to have what is, today, considered a reasonable connection speed
+in order to watch content uninterrupted. For example, at home I pay for something like 310 Mbps. 
+With 4G LTE on my phone in the States I get about 151 Mbps. Here it's between 1 and 3. Some nights, 
+it's actually more accurate to measure it in kilobits per second (Kbps) rather than megabits. 
+
+As a paying customer of these services, I'm afforded the ability to download shows and movies for
+offline viewing. But what would ordinarily take me 18 seconds to download now takes at least an hour 
+and a half, and I don't want to (or sometimes can't) leave my laptop open or my phone running to 
+do that all day. 
+
+I'll spare the details but my dutiful Lenovo ThinkCentre there on the desk _is_
+willing and capable to chug along all day and all night fetching these things on a slow-drip 
+internet connection so that when the weekend comes around I can watch an episode or a movie all
+the way through. And my historic library of purchased blu-rays and _The Office_ DVD box set came
+with me on the hard drives, also immediately available for streaming—not from the world wide web, 
+but from my desk setup here, offering a low-latency solution to what (I imagine) is a frustrating
+problem to everyone here on base who isn't coughing up at least $155 per month for reasonable
+internet speeds. 
+
+![Big oof prices](img/prices-oof.png)
+<p style="text-align: center;"><i>That's where all their tax savings go.</i></p>
+
+
 ## 21 Oct 2022 - Living Quarters
 ![Transient CLU](img/transient_clu.JPG)
 <p style="text-align: center;"><i>Exactly as small as you think it is.</i></p>
