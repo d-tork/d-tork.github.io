@@ -1,5 +1,10 @@
 # A Nine-Month Paid Vacation
 
+## Rituals
+Shave. Brush teeth. Retainer in. Eye drops. Empty dehumidifier. Plug in phone. Jam paper in 
+doorframe to prevent rattling. Swap analog watch for Apple watch. [Pillow alarm](https://www.sonicalert.com/SBP100-Alarm-Clock)
+activated. Scoot mattress back against wall. Lights off. Earplugs in. Eye mask on. 
+
 ## 19 Nov 2022 - Living Quarters 2.0
 Finally made it to the top of the list to receive my permanent housing for the rest of the 
 deployment. Behold: 
